@@ -49,6 +49,7 @@ CONEXIONES = [
     ("Bloque I",      "Bloque K",      70),
     ("Bloque K",      "Bloque J",      90),
     ("Coliseo",       "Bloque J",     110),
+    ("Biblioteca",    "Bloque I", 90)
 ]
 
 # ──────────────────────────────────────────────────────
